@@ -93,7 +93,7 @@ then call that method.
 
 In the directory of this repo, in your terminal, run the file by typing
 `ruby lib/pry_is_awesome.rb`. Now, look at your terminal. You should see
-something like this:
+something like this: lib/pry_is_awesome
 
 ```txt
   3: def prying_into_the_method
